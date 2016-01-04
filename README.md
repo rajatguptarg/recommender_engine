@@ -1,9 +1,9 @@
-# Recommender Engine
-___
+Recommender Engine
+=================
 
-**Build Status**  |  Master [![Build Status](https://travis-ci.org/rajatguptarg/recommender_engine.svg)](https://travis-ci.org/rajatguptarg/recommender_engine)   | Develop [![Build Status](https://travis-ci.org/rajatguptarg/recommender_engine.svg?branch=develop)](https://travis-ci.org/rajatguptarg/recommender_engine)
------------------
 
+**Master** [![Build Status](https://travis-ci.org/rajatguptarg/recommender_engine.svg)](https://travis-ci.org/rajatguptarg/recommender_engine)   | **Develop** [![Build Status](https://travis-ci.org/rajatguptarg/recommender_engine.svg?branch=develop)](https://travis-ci.org/rajatguptarg/recommender_engine)
+______________
 
 
 Recoomendation Engine which gives recommendation to users.
